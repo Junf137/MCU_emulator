@@ -88,3 +88,8 @@
 !*.elf
 !*.bmm
 !*.xmp
+#########
+#README
+#########
+!README.md
+!README.txt
