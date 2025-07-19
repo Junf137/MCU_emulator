@@ -89,7 +89,9 @@
 !*.bmm
 !*.xmp
 #########
-#README
+#Miscellaneous
 #########
 !README.md
 !README.txt
+# Do NOT ignore Img folder
+!Img/**
